@@ -1,4 +1,4 @@
-. dir.sh
+. lib/dir.sh
 
 bacHome=$bacdir/Home
 
