@@ -1,4 +1,4 @@
-. dir
+. dir.sh
 
 cd ..
-7zr a $name.7z $name
+7zr a $bacdir.7z $bacdir
