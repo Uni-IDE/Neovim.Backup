@@ -1,4 +1,4 @@
-. my/var
+. lib/var.sh
 
 config=.config
 share=.local/share
