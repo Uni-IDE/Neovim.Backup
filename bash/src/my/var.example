@@ -1,3 +1,6 @@
 # Make your changes here. Set your preferred profile Name & snapshot label!
 name=NvChad
 snapshot=Rust
+
+#Copy this to `my/var` and remove it from .gitignore to commit changes
+# cp my/var.example my/var
