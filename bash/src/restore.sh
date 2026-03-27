@@ -1,0 +1,3 @@
+. lib/synchronize.sh
+syncFromBackup
+

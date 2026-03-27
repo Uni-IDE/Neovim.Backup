@@ -1,4 +1,4 @@
-. var
+. ../var
 
 config=.config
 share=.local/share
