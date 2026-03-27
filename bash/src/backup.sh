@@ -1,0 +1,2 @@
+. sync.sh
+. compress.sh

@@ -15,4 +15,4 @@ sync(){
 }
 
 create_bac_dirs
-#sync
+sync
